@@ -20,12 +20,16 @@ Sistema web para administrar procesos de postulación, documentos, citaciones, e
 
 **Tecnologías:** Laravel, Livewire, PHP, MySQL, Tailwind CSS, DomPDF y PhpSpreadsheet.
 
+**Demo pública y segura:** [Selection Process Demo](https://github.com/diegovgdev/selection-process-demo) — aplicación independiente con procesos, postulantes y puntajes completamente ficticios.
+
 ### Dispatch Platform
 
 Consola web de despacho para registrar eventos mediante coordenadas, localidad o selección sobre mapa; analiza información operacional cercana y permite preparar un despacho.
 
 **Tecnologías:** React, TypeScript, Vite, Node.js, Fastify, Zod, PostgreSQL, APIs REST y MapLibre.
 
+**Demo pública y segura:** [Dispatch Platform Demo](https://github.com/diegovgdev/dispatch-platform-demo) — consola interactiva con datos, bases y coordenadas ficticias.
+
 ---
 
-Los proyectos se describen sin incluir código privado, datos operacionales, credenciales ni información confidencial.
+Los proyectos se describen sin incluir código privado, datos operacionales, credenciales ni información confidencial. Las demostraciones públicas utilizan exclusivamente datos ficticios.
