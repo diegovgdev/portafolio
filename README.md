@@ -14,6 +14,8 @@ Plataforma web para visualización y análisis de información territorial orien
 
 **Tecnologías:** JavaScript, PHP, MySQL, Mapbox GL / MapLibre, GeoJSON y APIs REST.
 
+**Demo pública y segura:** [GIS Operational Analysis Demo](https://github.com/diegovgdev/gis-operational-analysis-demo) · [Ver demo en vivo](https://diegovgdev.github.io/gis-operational-analysis-demo/) — simulación independiente de análisis espacial por coordenadas, con buffers, capas GeoJSON, proximidad e intersecciones usando datos completamente ficticios.
+
 ### Sistema de Selección de Personal
 
 Sistema web para administrar procesos de postulación, documentos, citaciones, entrevistas, evaluaciones, ranking y reportes de selección de personal.
