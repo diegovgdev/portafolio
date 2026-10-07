@@ -6,6 +6,10 @@ Ingeniero Informático titulado, orientado al desarrollo de aplicaciones web, pl
 
 **JavaScript · TypeScript · React · Node.js · Fastify · PHP · Laravel · MySQL · PostgreSQL · APIs REST · Git/GitHub · Mapbox/MapLibre · GeoJSON**
 
+## Desarrollo asistido por IA
+
+**Desarrollo asistido por IA y prototipado rápido (vibe coding):** utilizo Claude, ChatGPT y Codex para explorar soluciones, estructurar proyectos, documentar, depurar y acelerar pruebas. Cada implementación se revisa técnicamente, se valida con pruebas y se controla mediante Git antes de publicarse.
+
 ## Proyectos destacados
 
 ### SIG-ONE | Plataforma GIS operacional
